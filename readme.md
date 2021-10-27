@@ -6,7 +6,7 @@
 <br>
 
 
-# [latihan1.py](https://www.linkedin.com/in/melvian-wijaya-760b371b1/)
+# [latihan1.py](https://github.com/melviandanuw/TugasProgramBiodata/blob/main/latihan1.py)
 
 <p align="justify">Berisi latihan menulis syntax dalam bahasa pemrograman python.
 
@@ -35,7 +35,7 @@ print("hasil penjumlahan {1}+{0}=%d".format(a, b) %(a+b));
 <br>
 
 
-# [tugas1.py](https://www.linkedin.com/in/melvian-wijaya-760b371b1/)
+# [tugas1.py](https://github.com/melviandanuw/TugasProgramBiodata/blob/main/tugas1.py)
 
 <p align="justify">Berisi tugas membuat program biodata dalam bahasa pemrograman python.
 
